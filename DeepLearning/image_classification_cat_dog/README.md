@@ -17,4 +17,7 @@ Trained Model available in release section:
  * Evaluation
   - Evaluate using FastAPI-Swagger UI in Safari/Chrome.
   ```http://127.0.0.1:8000/docs```
+  
+ #### Demo video
+ <a href="https://drive.google.com/file/d/1FAi5IusVY7-5WlxYokIED1NO4denKIRi/view?usp=sharing"> Link </a>
 
