@@ -6,6 +6,10 @@ Trained Model available in release section:
 >> - Deep Learning Framework used: Keras
 >> - Dataset: https://www.kaggle.com/biaiscience/dogs-vs-cats
 
-
-```Note: Due to RAM limitations on Google Colab, 1k image per class was used for training and testing.
+###### Note: 
+> Due to RAM limitations on Google Colab, 1k image per class was used for training and testing.
 Increase it as per your convenience```
+
+#### Deployment via Fast API
+```cd MLOps && uvicorn webapp:classifier_app --reload```
+
