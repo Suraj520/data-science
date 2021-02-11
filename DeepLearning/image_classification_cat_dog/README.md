@@ -13,5 +13,5 @@ Trained Model available in release section:
 
 #### Deployment via Fast API
 ```cd MLOps && uvicorn webapp:classifier_app --reload```
-```Ensure that the trained model is placed in MLOps directory```
+<br> ```Ensure that the trained model is placed in MLOps directory```
 
