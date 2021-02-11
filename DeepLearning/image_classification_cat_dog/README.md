@@ -7,8 +7,9 @@ Trained Model available in release section:
 >> - Dataset: https://www.kaggle.com/biaiscience/dogs-vs-cats
 
 ###### Note: 
-> Due to RAM limitations on Google Colab, 1k image per class was used for training and testing.
-Increase it as per your convenience```
+> Due to RAM limitations on Google Colab, 1k image per class was used for training and testing. The accuracy was observed to be greater than 95% on both test and val set after fine tuning the imagenet pre-trained weights of EfficientNet.
+
+```You can increase it as per your convenience```
 
 #### Deployment via Fast API
 ```cd MLOps && uvicorn webapp:classifier_app --reload```
