@@ -12,6 +12,9 @@ Trained Model available in release section:
 ```You can increase it as per your convenience```
 
 #### Deployment via Fast API
-```cd MLOps && uvicorn webapp:classifier_app --reload```
+* ```cd MLOps && uvicorn webapp:classifier_app --reload```
 <br> ```Ensure that the trained model is placed in MLOps directory```
+ * Evaluation
+  - Evaluate using FastAPI-Swagger UI in Safari/Chrome.
+  ```http://127.0.0.1:8000/docs```
 
