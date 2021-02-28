@@ -1,5 +1,6 @@
 # About
-``` Machine Learning based implementation for Object detection using HOG for feature extraction and SVM for classification.
+``` 
+Machine Learning based implementation for Object detection using HOG for feature extraction and SVM for classification.
 ```
 ## Dataset 
 The dataset has been split into Positive and Negative samples along with few testing samples for the task of detecting faces in an image.
