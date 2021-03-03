@@ -1,6 +1,9 @@
 # About
 
-> This project uses MobileNetV1 SSD Architecture for detecting fruits on the Kaggle dataset: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection
+> This project uses MobileNetV2-SSDLite Architecture for detecting vehicle number plate on the Kaggle dataset: https://https//www.kaggle.com/dataturks/vehicle-number-plate-detection
 
-### Trained Model
-Link: https://github.com/Suraj520/Train_Infer_MLOps/releases/tag/TM0.2
+### Current Feature Update
+> It is a bare-minimum backbone of Mobilenet v2-SSDLite where the bounding box coordinates are being regressed.
+
+### To Do.
+> Add Anchor box generation and NMS in the pipeline.
