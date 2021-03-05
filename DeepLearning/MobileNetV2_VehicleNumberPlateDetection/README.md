@@ -4,6 +4,4 @@
 
 ### Current Feature Update
 > It is a bare-minimum backbone of Mobilenet v2-SSDLite where the bounding box coordinates are being regressed. 
-
-### Future Work.
-> Add Anchor box generation and NMS in the pipeline to improve the accuracy.
+> Well, This was a teaser I hope to cover the Anchor box generation and NMS in the pipeline to improve the accuracy in my upcoming book.
