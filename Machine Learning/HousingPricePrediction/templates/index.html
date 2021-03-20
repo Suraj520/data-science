@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>House Price Predictor</title>
+</head>
+<body bgcolor="cyan">
+<h1> House price prediction.</h1>
+<form action = "/input_post" method="post">
+    <h2> </h2> Area_type <br>
+    <input type="text" name = "area"><br>
+    Availability <br>
+    <input type="text" name="avail"> <br>
+    Total_Sqft <br>
+    <input type="text" name="total_sqft"> <br>
+    Bath <br>
+    <input type="text" name="bath"> <br>
+    Balcony <br>
+    <input type="text" name="balcony"> <br>
+    BHK_Size <br>
+    <input type="text" name="bhk"> <br>
+    Bed Size <br>
+    <input type="text" name="bed"> <br>
+    <input type="submit" value="predict price">
+</form>
+<table>
+    <h5> Valid input range for each field</h5>
+  <tr>
+    <td>Area_type: 'Carpet  Area': 0, 'Plot  Area': 1, 'Built-up  Area': 2, 'Super built-up  Area': 3 </td>
+  </tr>
+  <tr>
+    <td>Availability: 0 or 1 (1 for Ready to Move)</td>
+  </tr>
+      <tr>
+    <td>Total Sqft : 0 to 9999</td>
+  </tr>
+      <tr>
+    <td>Bath: 1 - 5</td>
+  </tr>
+      <tr>
+    <td>Balcony: 1 -3 </td>
+  </tr>
+      <tr>
+    <td>BHK Size: 0 - 5</td>
+  </tr>
+      <tr>
+    <td>Bed Size: 0 -5 </td>
+  </tr>
+
+</table>
+<h1> Predicted Price is {{output}}k INR</h1>
+</body>
+</html>
