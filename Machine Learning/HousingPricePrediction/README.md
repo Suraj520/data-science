@@ -12,3 +12,5 @@ $ python app.py #It will expose an IP over which the web-app can be accessed.
 ```
 $ cd notebook #execute HousingPricePredictionUsing_LinearRegression.ipynb
 ```
+### Medium Blog Link
+Link: https://suraj52.medium.com/house-price-prediction-using-linear-regression-230b8a923bfb
