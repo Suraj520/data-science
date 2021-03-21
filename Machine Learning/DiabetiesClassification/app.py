@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 app = Flask(__name__)
 
-with open('model/diabeties_classification_model.pkl', 'rb') as file:
+with open('model/diabeties_classification_logreg_model.pkl', 'rb') as file:
     model = pickle.load(file)
 @app.route('/')
 def hello_world():
