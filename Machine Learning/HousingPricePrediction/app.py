@@ -8,7 +8,7 @@ with open('model/fitted_model.pkl', 'rb') as file:
 @app.route('/')
 def hello_world():
     return render_template("index.html")
-database={'nachi':'123','james':'aac','karthik':'asdsf'}
+
 
 @app.route('/input_post',methods=['POST','GET'])
 def login():
