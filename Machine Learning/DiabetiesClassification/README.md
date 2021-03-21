@@ -10,6 +10,6 @@ $ python app.py #It will expose an IP over which the web-app can be accessed.
 ```
 ### Re-training and Model evaluation.
 ```
-$ cd notebook #execute HousingPricePredictionUsing_LinearRegression.ipynb
+$ cd notebook #execute Patient_Diabeties_Classification_KNN.ipynb
 ```
 ### Medium Blog Link
