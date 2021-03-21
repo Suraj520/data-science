@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Diabeties Classification </title>
+</head>
+<body bgcolor="yellow">
+<h1> Diabeties Classification</h1>
+<h4> Use this webapp to predict whether a patient is suffering from diabeties or not.</h4>
+<form action = "/input_post" method="post">
+    <h2> </h2> Pregnancy <br>
+    <input type="text" name = "preg"><br>
+    Glucose <br>
+    <input type="text" name="gluc"> <br>
+    Blood Pressure <br>
+    <input type="text" name="bp"> <br>
+    Skin Thickness <br>
+    <input type="text" name="skinthick"> <br>
+    Insulin <br>
+    <input type="text" name="insulin"> <br>
+    BMI <br>
+    <input type="text" name="bmi"> <br>
+    DiabetiesPedigreeFunction <br>
+    <input type="text" name="diabetes_ped"> <br>
+    <input type="submit" value="predict ">
+</form>
+<table>
+    <h5> Valid input range for each field</h5>
+  <tr>
+    <td>Pregnancies: 0-17 </td>
+  </tr>
+  <tr>
+    <td>Glucose: 44-199</td>
+  </tr>
+      <tr>
+    <td>Blood Pressure: 24-122</td>
+  </tr>
+      <tr>
+    <td>Skin Thickness: 7-99</td>
+  </tr>
+      <tr>
+    <td>Insulin : 14-846</td>
+  </tr>
+      <tr>
+    <td>BMI: 18.2-67.1</td>
+  </tr>
+      <tr>
+    <td>DiabetiesPedigreeFunction: 0.078-2.42</td>
+  </tr>
+      </tr>
+      <tr>
+    <td>Age- 21-81</td>
+  </tr>
+
+</table>
+<h1> Outcome: Diabeties(Y:1/N:0) {{output}}</h1>
+</body>
+</html>
