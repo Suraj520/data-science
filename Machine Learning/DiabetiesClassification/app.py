@@ -10,7 +10,7 @@ def hello_world():
     return render_template("index.html")
 
 
-@app.route('/input_post',methods=['POST','GET'])
+@app.route('/post_predict',methods=['POST','GET'])
 def login():
     pregnancy=request.form['preg']
     glucose=request.form['gluc']
@@ -22,9 +22,13 @@ def login():
     age=request.form['age']
     feature_vector = [pregnancy,glucose,bp,skinthick,insulin,bmi,diabetes_ped,age]
     feature_vector = np.reshape(feature_vector,(1,8))
+    print(feature_vector)
     out = model.predict(feature_vector)[0]
-    print(out)
-    return render_template('index.html',output=out)
+    if out == 1:
+        output = "Yes"
+    else:
+        output = "No"
+    return render_template('index.html',output=output)
 
 if __name__ == '__main__':
     app.run()

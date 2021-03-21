@@ -7,7 +7,7 @@
 <body bgcolor="yellow">
 <h1> Diabeties Classification</h1>
 <h4> Use this webapp to predict whether a patient is suffering from diabeties or not.</h4>
-<form action = "/input_post" method="post">
+<form action = "/post_predict" method="post">
     <h2> </h2> Pregnancy <br>
     <input type="text" name = "preg"><br>
     Glucose <br>
@@ -22,6 +22,8 @@
     <input type="text" name="bmi"> <br>
     DiabetiesPedigreeFunction <br>
     <input type="text" name="diabetes_ped"> <br>
+    Age <br>
+    <input type="text" name="age"> <br>
     <input type="submit" value="predict ">
 </form>
 <table>
@@ -53,6 +55,6 @@
   </tr>
 
 </table>
-<h1> Outcome: Diabeties(Y:1/N:0) {{output}}</h1>
+<h1> Outcome: Diabeties > {{output}}</h1>
 </body>
 </html>
