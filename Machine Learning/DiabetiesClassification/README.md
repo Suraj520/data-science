@@ -12,4 +12,3 @@ $ python app.py #It will expose an IP over which the web-app can be accessed.
 ```
 $ cd notebook #execute Patient_Diabeties_Classification.ipynb
 ```
-### Medium Blog Link
