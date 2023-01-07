@@ -14,6 +14,9 @@ Create a function between independent variable Review sentences and dependent va
 2. Using Count Vectorizer with Multinomial Naive Bayes.
 
 3. Using TF IDF with logistic regression.
+
+4. Using Simple LSTM. 
+5. Using LSTM with with word2Vec embeddings
 #### Dataset
 
 https://www.kaggle.com/datasets/wojtekbonicki/ebay-reviews
