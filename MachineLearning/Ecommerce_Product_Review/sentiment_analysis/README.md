@@ -11,10 +11,9 @@ Create a function between independent variable Review sentences and dependent va
 #### Approach
 1. A basic approach involves training a machine learning model on labelled positive and negative keywords that upon being encountered in a future review sequentially gets summed up to decipher the net sentiment.
 
-2. Using TF-IDF.                    
+2. Using Count Vectorizer with Multinomial Naive Bayes.
 
-3. Using Count Vectorizer.
-
+3. Using TF IDF with logistic regression.
 #### Dataset
 
 https://www.kaggle.com/datasets/wojtekbonicki/ebay-reviews
