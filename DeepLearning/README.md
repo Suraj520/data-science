@@ -15,3 +15,5 @@
 13. LSTM_TimeSeries classiification (PyTorch Lightning)
 14. Instance Segmentation using Point Rend(Tensorflow/Keras).
 15. Siamese networks based Signature Detection(Tensorflow/Keras).
+16. Fashion MNIST using Logistic Regression(PyTorch).
+
