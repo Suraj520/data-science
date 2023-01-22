@@ -16,4 +16,5 @@
 14. Instance Segmentation using Point Rend(Tensorflow/Keras).
 15. Siamese networks based Signature Detection(Tensorflow/Keras).
 16. Fashion MNIST using Logistic Regression(PyTorch).
+17. MNIST Digit classification using Deep Neural Network(PyTorch).
 
