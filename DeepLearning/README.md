@@ -18,5 +18,6 @@
 16. Fashion MNIST using Logistic Regression(PyTorch).
 17. MNIST Digit classification using Deep Neural Network(PyTorch).
 18. CIFAR100 Image classification(Class and Superclass) using CNNs(PyTorch).
-19. Caltech256 Image Classification via Transfer learning(PyTorch). 
-
+19. Caltech256 Image Classification via Transfer learning with Alexnet as Feature Extractor(PyTorch). 
+20. Wonders of the World Image Classification via Transfer learning by Fine-tuning Resnet(PyTorch).
+21. Indian Food classification via Transfer Learning using EfficientNet B7 - as feature Extractor in PyTorch.
