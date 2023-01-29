@@ -23,4 +23,4 @@
 21. Indian Food classification via Transfer Learning using EfficientNet B7 - as feature Extractor in PyTorch.
 22. Furniture detection via Faster RCNN with Resnet 50 as feature extractor in PyTorch.
 23. Face Mask detection via Yolo v1 from scratch in PyTorch.
-24. Face Mask detection and Tracking via Yolo v8(Ultralytics). 
+24. Face Mask detection via Yolo v8(Ultralytics). 
