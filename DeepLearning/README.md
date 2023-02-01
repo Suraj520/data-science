@@ -27,3 +27,5 @@
 25. Car Image Segmentation using Mask-RCNN via Fine-tuning in PyTorch.
 26. Brain MRI segmentation using Unet in PyTorch.
 27. Person Segmentation using DeepLabV3 in PyTorch.
+28. Video Classification using Resnet-101 base model in Keras.
+
