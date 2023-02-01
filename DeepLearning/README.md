@@ -26,4 +26,4 @@
 24. Face Mask detection via Yolo v8(Ultralytics).
 25. Car Image Segmentation using Mask-RCNN via Fine-tuning in PyTorch.
 26. Brain MRI segmentation using Unet in PyTorch.
-27. Leaf disease segmentation ...
+27. Person Segmentation using DeepLabV3 in PyTorch.
