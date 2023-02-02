@@ -11,3 +11,4 @@
 09. E-commerce product review using Count vectorizer with Naive Bayes, TF-IDF with Logistic regression, LSTM and LSTM with Word2Vec embeddings.
 10. Question similarity using XGBoost Classifier.
 11. Retail Analysis of Walmart Data.
+12. Text extraction from Images using PyTesseract.
