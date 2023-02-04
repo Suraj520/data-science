@@ -29,4 +29,7 @@
 27. Person Segmentation using DeepLabV3 in PyTorch.
 28. Video Classification using Resnet-101 base model in Keras.
 29. Face emotion recognition in PyTorch.
+30. Text retrieval from images using deep learning in keras.
+
+
 
