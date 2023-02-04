@@ -7,7 +7,7 @@
 05. Image classification for cats and dogs category(Tensorflow/Keras).
 06. Pre-residual network architectures(Tensorflow/Keras). 
 07. Residual network architectures(Tensorflow/Keras).
-08. Hugging face transformers for NLP Tasks(Tensorflow/Keras/PyTorch).
+08. Fill in the blanks and multi-label classification(Tensorflow/Keras/PyTorch).
 09. LSTM-BiLSTM-BERT Sentiment detection(Tensorflow/Keras).
 10. Mobilenet V1 SSD based Object detection from scratch(Tensorflow/Keras).
 11. Mobilenet V2 SSD based Vehicle number plate detection(Tensorflow/Keras).
