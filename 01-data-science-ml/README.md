@@ -13,3 +13,4 @@
 11. Retail Analysis of Walmart Data.
 12. Text extraction from Images using PyTesseract.
 13. Customer Segmentation using LightGBM, Catboost and Xgboost.
+14. Breast Cancer detection using random forest.
