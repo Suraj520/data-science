@@ -32,5 +32,6 @@
 30. Text retrieval from images using deep learning(Keras).
 31. Cyberbully detection in tweets using 1D CNNs, LSTMs and BERT using Bag of Words, TF-IDF, FastText embeddings(Tensorflow/Keras).
 32. Image classification using Vision Transformers(PyTorch).
+33. Image classification using DeIT(Data Efficient Image Transformers) in PyTorch.
 
 
