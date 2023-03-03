@@ -16,3 +16,5 @@
 14. Breast Cancer detection using random forest.
 15. Used car price prediction using random forest.
 16. Income classification.
+17. Startup success prediction.
+18. Wine quality prediction analysis.
