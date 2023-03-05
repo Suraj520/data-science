@@ -19,3 +19,4 @@
 17. Startup success prediction.
 18. Wine quality prediction analysis.
 19. Web traffic time series forecasting.
+20. Loan Prediction analysis.
