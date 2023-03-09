@@ -33,7 +33,8 @@
 31. Cyberbully detection in tweets using 1D CNNs, LSTMs and BERT using Bag of Words, TF-IDF, FastText embeddings(Tensorflow/Keras).
 32. Image classification using Vision Transformers(PyTorch).
 33. Image classification using DeIT(Data Efficient Image Transformers) in PyTorch.
-34. Iris eye detection(PyTorch). 
+34. Iris eye detection(PyTorch).
+35. Generative Adversarial Networks(GANs)(PyTorch). 
 
 
 
