@@ -35,7 +35,8 @@
 33. Image classification using DeIT(Data Efficient Image Transformers) in PyTorch.
 34. Iris eye detection(PyTorch).
 35. Generative Adversarial Networks(GANs)(PyTorch).
-36. Image generation using GANs(PyTorch). 
+36. Image generation using GANs(PyTorch).
+37. Urban sound classification(PyTorch). 
 
 
 
