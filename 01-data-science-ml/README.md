@@ -20,3 +20,4 @@
 18. Wine quality prediction analysis.
 19. Web traffic time series forecasting.
 20. Loan Prediction analysis.
+21. Speech to gender classification using SVC.
