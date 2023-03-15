@@ -36,7 +36,8 @@
 34. Iris eye detection(PyTorch).
 35. Generative Adversarial Networks(GANs)(PyTorch).
 36. Image generation using GANs(PyTorch).
-37. Urban sound classification(PyTorch). 
+37. Urban sound classification(PyTorch).
+38. SRGAN for image super resolution(PyTorch). 
 
 
 
