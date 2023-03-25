@@ -37,7 +37,8 @@
 35. Generative Adversarial Networks(GANs)(PyTorch).
 36. Image generation using GANs(PyTorch).
 37. Urban sound classification(PyTorch).
-38. SRGAN for image super resolution(PyTorch). 
+38. SRGAN for image super resolution(PyTorch).
+39. Denoising Diffusion model(PyTorch). 
 
 
 
