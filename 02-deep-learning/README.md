@@ -41,6 +41,7 @@
 39. Denoising Diffusion model(PyTorch). 
 40. CycleGAN (PyTorch).
 41. Conditional GANs(PyTorch).
+42. Text to image generation using StackGAN(PyTorch).
 
 
 
