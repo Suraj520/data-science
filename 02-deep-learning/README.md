@@ -40,6 +40,7 @@
 38. SRGAN for image super resolution(PyTorch).
 39. Denoising Diffusion model(PyTorch). 
 40. CycleGAN (PyTorch).
+41. Conditional GANs(PyTorch).
 
 
 
