@@ -42,6 +42,9 @@
 40. CycleGAN (PyTorch).
 41. Conditional GANs(PyTorch).
 42. Text to image generation using StackGAN(PyTorch).
+43. Progressive GANs(PyTorch)
+44. Laplacian GANs(PyTorch)
+45. Autoencoders for data compression, feature extraction, anomaly detection and image denoising(PyTorch)
 
 
 
