@@ -45,6 +45,7 @@
 43. Progressive GANs(PyTorch)
 44. Laplacian GANs(PyTorch)
 45. Autoencoders for data compression, feature extraction, anomaly detection and image denoising(PyTorch)
+46. Image and speech recognition using variational auto encoders.
 
 
 
