@@ -1,5 +1,6 @@
 #### About
 > Credit card fraud detection
+
 Problem statement: A credit card company wants to detect fraud in their transactions. They want to use machine learning to identify fraudulent transactions and prevent financial losses.
 
 Data collection: The credit card company collects data on their transactions, including the transaction amount, location, time, and the type of card used. They also collect data on past fraudulent transactions and their characteristics.
