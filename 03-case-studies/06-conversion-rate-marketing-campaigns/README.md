@@ -8,7 +8,7 @@ Feature engineering: Additional features are created based on the existing data.
 
 Exploratory data analysis (EDA): The data is analyzed to understand the distribution of each variable, the correlation between variables, and to identify outliers and missing values.
 
-Model selection: Various machine learning models are trained on the data, including logistic regression, decision trees, random forests, and neural networks. The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1 score.
+Model selection: Various machine learning models are trained on the data, including linear regression, decisiontree regressor, randomforest regressor, mlpregressor. The performance of each model is evaluated using metrics such as r2_score, mean_squared_error, mean_absolute_error.
 
 Model tuning: Hyperparameters for the best-performing models are tuned to further improve their performance. This involves testing different values for the hyperparameters and selecting the values that result in the lowest error rate.
 
