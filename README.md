@@ -5,6 +5,6 @@
 01. Data Science and ML - contains various Data science and machine learning projects
 02. Deep Learning - contains various deep learning projects.
 03. Case Studies - contains various case studies conducted using machine learning.
-
+04. Probability and Statistics - contains various implementations of concepts used in probability and statistics for data-science and machine learning.
 
 
