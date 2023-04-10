@@ -16,7 +16,7 @@ Model Selection: Several machine learning models will be considered, including d
 
 Model Tuning: The selected model will be fine-tuned by adjusting hyperparameters using grid search and cross-validation. The goal is to find the optimal combination of hyperparameters that will maximize the performance of the model.
 
-Model Interpretation: Once the final model is trained and deployed, its predictions will be interpreted and analyzed to gain insights into the factors that contribute to machine failures. This can help the company to make informed decisions about maintenance schedules, replacement parts, and other factors that affect machine performance. Overall, this predictive maintenance system will enable the company to minimize downtime, improve efficiency, and reduce maintenance costs, leading to significant improvements in their bottom line.
+Model Interpretation: The models are interpreted to understand how each variable affects the failures. 
 
 Recommendations :
 
