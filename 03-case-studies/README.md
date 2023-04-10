@@ -4,6 +4,7 @@
 3. Predicting Insurance premiums.
 4. Predicting airbnb prices.
 5. Credit card fraud detection.
+6. Analysing conversion rates of Marketing campaign.
 
 
 > Note - Case study's titles have been fetched from the udemy playlist- https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/
