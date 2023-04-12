@@ -1,5 +1,5 @@
 # About the Repo
-* The repository contains opensourced implementation of various deep learning and machine learning architectures and their usage to train and inference models on structured(tabular) and unstructured data(text,speech and images/video).
+* The repository contains hands-on implementation of various key branches of data-science.
 
 * Index of Contents.
 01. Machine learning - contains various machine learning projects
