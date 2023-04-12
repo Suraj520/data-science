@@ -1,1 +1,0 @@
-kafka-topics.sh --bootstrap-server localhost:9092 --partitions 2 --replication-factor 1 --topic firsttopic --create 

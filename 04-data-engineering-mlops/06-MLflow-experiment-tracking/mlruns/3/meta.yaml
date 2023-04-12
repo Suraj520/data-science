@@ -1,4 +1,0 @@
-artifact_location: file:///home/suraj/ClickUp/Mar-Apr/data-engineering-mlops-projects/07-MLflow-experiment-tracking/mlruns/3
-experiment_id: '3'
-lifecycle_stage: active
-name: tuned_model
