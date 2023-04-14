@@ -1,4 +1,5 @@
 # Data Science
+![Image Credits - https://images.app.goo.gl/ksif86Qh3T2gHYp96 ](Logo.gif) <a href="https://images.app.goo.gl/ksif86Qh3T2gHYp96"> Animation credits </a>
 
 The repository contains hands-on implementation of various key branches of data-science.
 
