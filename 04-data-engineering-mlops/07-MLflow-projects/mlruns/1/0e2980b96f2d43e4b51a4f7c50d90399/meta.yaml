@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suraj/ClickUp/Mar-Apr/data-engineering-mlops-projects/08-MLflow-projects/mlruns/1/0e2980b96f2d43e4b51a4f7c50d90399/artifacts
+end_time: 1678082599888
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0e2980b96f2d43e4b51a4f7c50d90399
+run_uuid: 0e2980b96f2d43e4b51a4f7c50d90399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678082406546
+status: 4
+tags: []
+user_id: suraj

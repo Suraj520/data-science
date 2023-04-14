@@ -1,0 +1,4 @@
+artifact_location: file:///home/suraj/ClickUp/Mar-Apr/data-engineering-mlops-projects/08-MLflow-projects/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: mlflow-project
