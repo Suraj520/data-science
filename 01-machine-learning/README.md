@@ -1,23 +1,29 @@
-## Index of Contents
-00. House Price Prediction hosted on a flask app.
-01. Airline Price optimization using Dynamic Programming.
-02. BrainMRI Segmentation using Gaussian Mixture Models.
-03. Diabeties Classification using KNN and Logistic regression hosted on a flask app.
-04. Face recognition using PCA(EigenFaces).
-05. Object detection using HOG/SVM.
-06. Resume Parcer using Spacy.
-07. Revenue Prediction using Random Forest Regressor.
-08. Time series prediction using Auto-regressive model.
-09. E-commerce product review using Count vectorizer with Naive Bayes, TF-IDF with Logistic regression, LSTM and LSTM with Word2Vec embeddings.
-10. Question similarity using XGBoost Classifier.
-11. Retail Analysis of Walmart Data.
-12. Text extraction from Images using PyTesseract.
-13. Customer Segmentation using LightGBM, Catboost and Xgboost.
-14. Breast Cancer detection using random forest.
-15. Used car price prediction using random forest.
-16. Income classification.
-17. Startup success prediction.
-18. Wine quality prediction analysis.
-19. Web traffic time series forecasting.
-20. Loan Prediction analysis.
-21. Speech to gender classification using SVC.
+## Table of Contents
+
+| Section | Description |
+| --- | --- |
+| [00_HousingPricePrediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/00_HousingPricePrediction) | House Price Prediction hosted on a flask app. |
+| [01_AirLine_Price_Optimization](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/01_AirLine_Price_Optimization) | Airline Price optimization using Dynamic Programming. |
+| [02_BrainMRI_Segmentation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/02_BrainMRI_Segmentation/notebook) | BrainMRI Segmentation using Gaussian Mixture Models. |
+| [03_DiabetiesClassification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/03_DiabetiesClassification) | Diabeties Classification using KNN and Logistic regression hosted on a flask app. |
+| [04_FaceRecognition](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/04_FaceRecognition) | Face recognition using PCA(EigenFaces). |
+| [05_Object Detection](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/05_Object%20Detection/HOG_SVM) | Object detection using HOG/SVM. |
+| [06_Resume_Parser](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/06_Resume_Parser) | Resume Parcer using Spacy. |
+| [07_RevenuePrediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/07_RevenuePrediction) | Revenue Prediction using Random Forest Regressor. |
+| [08_Timeseries_forecast_AR_model](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/08_Timeseries_forecast_AR_model) | Time series prediction using Auto-regressive model. |
+| [09_Ecommerce_Product_Review](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/09_Ecommerce_Product_Review/sentiment_analysis) | E-commerce product review using Count vectorizer with Naive Bayes, TF-IDF with Logistic regression, LSTM and LSTM with Word2Vec embeddings. |
+| [10_QuestionSimilarity](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/10_QuestionSimilarity) | Question similarity using XGBoost Classifier. |
+| [11_Retail_Analysis_Walmart](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/11_Retail_Analysis_Walmart) | Retail Analysis of Walmart Data. |
+| [12_text-extraction-images](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/12_text-extraction-images) | Text extraction from Images using PyTesseract. |
+| [13_customer-segmentation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/13_customer-segmentation) | Customer Segmentation using LightGBM, Catboost and Xgboost. |
+| [14_breast-cancer-detection](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/14_breast-cancer-detection) | Breast Cancer detection using random forest. |
+| [15_used-car-price-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/15_used-car-price-prediction) | Used car price prediction using random forest. |
+| [16_income-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/16_income-classification) | Income classification. |
+| [17-startup-success-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/17-startup-success-prediction) | Startup success prediction. |
+| [18-wine-quality-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/18-wine-quality-prediction) | Wine quality prediction analysis. |
+| [19-turkiye-student-evaluation-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/19-turkiye-student-evaluation-analysis) | Student evaluation analysis.|
+| [20-web-traffic-time-series-forecast](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/20-web-traffic-time-series-forecast) | Web traffic time series forecasting. |
+| [21-loan-prediction-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/21-loan-prediction-analysis) | Loan Prediction analysis. |
+| [22-speech-to-gender-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/22-speech-to-gender-classification) | Speech to gender classification using SVC. |
+
+
