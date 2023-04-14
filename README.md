@@ -1,4 +1,4 @@
-# Project Title
+# Data Science
 
 The repository contains hands-on implementation of various key branches of data-science.
 
