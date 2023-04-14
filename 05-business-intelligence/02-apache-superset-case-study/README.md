@@ -1,4 +1,8 @@
 #### About
+> Apache Superset
+
+Apache Superset is a modern, open-source data exploration and visualization platform that empowers users to interact with and analyze complex data sets. With Superset, users can easily create interactive and visually appealing dashboards, charts, and reports from a wide range of data sources.
+
 > Installation
 1. Create the environment using environment.yml
 ```
