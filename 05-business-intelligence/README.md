@@ -1,3 +1,6 @@
-#### Index of Contents
-1. Tableau based case studies.
-2. Apache superset based case studies.
+#### Table of Contents
+
+| # | Description |
+|---|-----------------------|
+| 1 | Tableau case studies |
+| 2 | Apache superset case studies |
