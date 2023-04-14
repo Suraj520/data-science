@@ -7,5 +7,6 @@
 6. Analysing conversion rates of Marketing campaign.
 7. Predictive maintenance system for industrial machinery.
 8. Case study on AB Testing in E-commerce domain.
+9. Case study on Product analytics.
 
 > Note - Case study's titles have been fetched from the udemy playlist- https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/
