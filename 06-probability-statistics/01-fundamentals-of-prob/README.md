@@ -45,7 +45,7 @@
 |41 | Singular Value Decomposition                     |
 |42 | Power Law                                        |
 |43 | Heavy Tailed Distribution                        |
-|44 | Central Limit Theorem                            |
+|44 | Entropy                          |
 |45 | p-value                                          |
 |46 | Markov chain Monte Carlo                         |
 |47 | Empirical Distribution Function                   |
@@ -55,5 +55,5 @@
 |51 | Brownian Motion                                  |
 |52 | Information Theory                               |
 |53 | Shannon Entropy                                  |
-|54 | Mutual Information                               |
-|55 | Bias-Variance Tradeoff                           |
+|54 | Bias-Variance Tradeoff                           |
+|55 | T-statistic and margin of error.                           |
