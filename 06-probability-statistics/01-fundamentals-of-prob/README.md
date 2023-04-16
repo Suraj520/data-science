@@ -57,3 +57,4 @@
 |53 | Shannon Entropy                                  |
 |54 | Bias-Variance Tradeoff                           |
 |55 | T-statistic and margin of error.                           |
+|56 | Binomial Distribution.                           |
