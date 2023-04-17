@@ -15,6 +15,7 @@ The repository contains hands-on implementation of various key branches of data-
 | [Data Engineering and MLOps](https://github.com/Suraj520/data-science/tree/main/04-data-engineering-mlops) | Various data engineering and mlops projects. |
 | [Business intelligence](https://github.com/Suraj520/data-science/tree/main/05-business-intelligence) | Various business intelligence projects using popular BI tools. |
 | [Probability and Statistics](https://github.com/Suraj520/data-science/tree/main/06-probability-statistics) | Various implementations of concepts used in probability and statistics for data-science and machine learning.|
+| [Linear Algebra](https://github.com/Suraj520/data-science/tree/main/07-linear-algebra) | Various implementations of concepts used in linear algebra for data-science and machine learning.|
 
 ## Getting Started
 
