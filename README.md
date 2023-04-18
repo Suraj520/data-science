@@ -5,6 +5,8 @@
 
 The repository contains hands-on implementation of various key branches of data-science.
 
+> The repository also shows my progress during the sabbatical from Dec. 2021 - Present*(16 months*). For more details, Refer the commit history.
+
 ## Table of Contents
 
 | Section | Description |
