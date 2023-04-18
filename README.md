@@ -7,7 +7,7 @@ The repository contains hands-on implementation of various key branches of data-
 
 > The repository also shows my progress during the sabbatical from Dec. 2021 - Present*(16 months*). For more details, Refer the commit history.
 
-Hand-written notes available at !<a href="https://github.com/Suraj520/data-science/releases/tag/HandWrittenNotes"> Link </a>
+Hand-written notes available at <a href="https://github.com/Suraj520/data-science/releases/tag/HandWrittenNotes"> Link </a>
 
 ## Table of Contents
 
