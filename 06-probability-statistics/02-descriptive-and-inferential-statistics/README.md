@@ -1,3 +1,5 @@
+> Hand written notes can be accessed at <a href="https://github.com/Suraj520/data-science/blob/main/06-probability-statistics/02-descriptive-and-inferential-statistics/Descriptive_Inferential_statistics.pdf"> Link </a>
+
 #### Descriptive Statistics
 
 - It is the branch of statistics that deals with the collection, analysis and interpretation of data. It involves the use of various techniques to summarize and describe the important features of a dataset.
