@@ -1,3 +1,5 @@
+<a href="https://github.com/Suraj520/data-science/blob/main/06-probability-statistics/01-fundamentals-of-prob/fundamentals-of-probability.pdf"> Hand written notes </a>
+
 ## Table of Contents
 
 | # | Topic                                            |
