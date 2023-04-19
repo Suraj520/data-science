@@ -18,8 +18,8 @@ Hand-written notes available at <a href="https://github.com/Suraj520/data-scienc
 | [Case Studies](https://github.com/Suraj520/data-science/tree/main/03-case-studies) | Various case studies in the domain of data science which utilise the skills of a data analyst, business analyst and a data scientist |
 | [Data Engineering and MLOps](https://github.com/Suraj520/data-science/tree/main/04-data-engineering-mlops) | Various data engineering and mlops projects. |
 | [Business intelligence](https://github.com/Suraj520/data-science/tree/main/05-business-intelligence) | Various business intelligence projects using popular BI tools. |
-| [Probability and Statistics](https://github.com/Suraj520/data-science/tree/main/06-probability-statistics) | Various implementations of concepts used in probability and statistics for data-science and machine learning.|
-| [Linear Algebra](https://github.com/Suraj520/data-science/tree/main/07-linear-algebra) | Various implementations of concepts used in linear algebra for data-science and machine learning.|
+| [Probability and Statistics](https://github.com/Suraj520/data-science/tree/main/06-probability-statistics) | Various implementations of concepts used in probability and statistics for data-science and machine learning with hand-written notes.|
+| [Linear Algebra](https://github.com/Suraj520/data-science/tree/main/07-linear-algebra) | Various implementations of concepts used in linear algebra for data-science and machine learning with hand-written notes.|
 
 ## Getting Started
 
