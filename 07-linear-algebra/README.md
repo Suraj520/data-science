@@ -1,6 +1,8 @@
 #### About
 > Linear Algebra
 
+>> Hand written notes can be accessed at <a href="https://github.com/Suraj520/data-science/blob/main/07-linear-algebra/linear-algebra.pdf"> link </a>
+
 Linear algebra is a branch of mathematics that deals with the study of vectors, matrices, and linear transformations.
 
 ## Table of Contents
