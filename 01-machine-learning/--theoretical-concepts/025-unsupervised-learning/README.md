@@ -1,8 +1,10 @@
 #### About
+>> Hand written notes can be accessed at <a href="https://github.com/Suraj520/data-science/blob/main/01-machine-learning/--theoretical-concepts/025-unsupervised-learning/unsupervised-ml.pdf"> link </a>
 
 > Unsupervised learning
 
 Unsupervised learning is a sort of machine learning in which an algorithm picks out relationships or patterns in data without the need of labelled samples or direct instruction. Unsupervised learning entails the algorithm discovering patterns or structures on its own within the data, as opposed to supervised learning, where the algorithm is given labelled data (i.e., input-output pairs). The programme uses methods like clustering, dimensionality reduction, and anomaly detection to find hidden patterns or structures in the data.
+
 
 ## Table of contents
 | No. | Concept |
