@@ -2,6 +2,7 @@
 
 | Section | Description |
 | --- | --- |
+| [--theoretical-concepts](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/--theoretical-concepts) | Key Concepts of Machine Learning. |
 | [00_HousingPricePrediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/00_HousingPricePrediction) | House Price Prediction hosted on a flask app. |
 | [01_AirLine_Price_Optimization](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/01_AirLine_Price_Optimization) | Airline Price optimization using Dynamic Programming. |
 | [02_BrainMRI_Segmentation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/02_BrainMRI_Segmentation/notebook) | BrainMRI Segmentation using Gaussian Mixture Models. |
