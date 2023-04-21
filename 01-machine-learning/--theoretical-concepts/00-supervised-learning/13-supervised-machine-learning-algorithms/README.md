@@ -2,6 +2,8 @@
 
 > Supervised Machine Learning Algorithms
 
+>> Hand written notes can be accessed at the following links - <a href = "https://github.com/Suraj520/data-science/blob/main/01-machine-learning/--theoretical-concepts/00-supervised-learning/13-supervised-machine-learning-algorithms/supervised_ml_0-11.pdf" Topics - 00-11 </a>, <a href="https://github.com/Suraj520/data-science/blob/main/01-machine-learning/--theoretical-concepts/00-supervised-learning/13-supervised-machine-learning-algorithms/supervised_ml_12-24.pdf"> Topics - 12-24 </a>, <a href="https://github.com/Suraj520/data-science/blob/main/01-machine-learning/--theoretical-concepts/00-supervised-learning/13-supervised-machine-learning-algorithms/supervised_ml_25-33.pdf"> Topics - 25 to 33 </a>
+
 Following are the set of supervised machine learning algorithms.
 
 ## Table of contents
