@@ -12,7 +12,7 @@ The repository contains hands-on implementation of various key branches of data-
 
 | Section | Description |
 | --- | --- |
-| [Machine learning](https://github.com/Suraj520/data-science/tree/main/01-machine-learning) | Various machine learning projects |
+| [Machine learning](https://github.com/Suraj520/data-science/tree/main/01-machine-learning) | Various theoretical concepts covered with hand written notes along with projects.|
 | [Zero to One Deep Learning](https://github.com/Suraj520/data-science/tree/main/02-zero-to-one-deep-learning) | Various deep learning projects |
 | [Case Studies](https://github.com/Suraj520/data-science/tree/main/03-case-studies) | Various case studies in the domain of data science which utilise the skills of a data analyst, business analyst and a data scientist |
 | [Data Engineering and MLOps](https://github.com/Suraj520/data-science/tree/main/04-data-engineering-mlops) | Various data engineering and mlops projects. |
