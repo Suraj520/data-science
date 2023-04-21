@@ -2,6 +2,8 @@
 
 > Machine Learning
 
+>> Hand written notes can be accessed at <a href = "https://github.com/Suraj520/data-science/blob/main/01-machine-learning/--theoretical-concepts/ml-notes.pdf"> link </a>
+
 Machine learning is a subfield of artificial intelligence (AI) that involves the development of algorithms and statistical models that allow computers to automatically learn from and make predictions or decisions based on data without explicit programming. 
 
 Machine learning algorithms use patterns and relationships found in data to make predictions, classify data into different categories, recognize patterns, and uncover insights or knowledge from large amounts of data. 
