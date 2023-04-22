@@ -1,6 +1,7 @@
 ## Table of contents
 | No. | Project |
 | --- | ------- |
+| --. | Theoretical concepts of Deep learning. |
 | 00. | Crop-yield prediction using Linear regression(PyTorch). |
 | 01. | Spacy NER(Tensorflow/Keras). |
 | 02. | BiLSTM NER(Tensorflow/Keras). |
