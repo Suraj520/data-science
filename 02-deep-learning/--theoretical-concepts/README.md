@@ -1,5 +1,7 @@
 #### About
 
+>> Hand written notes can be accessed at the <a href="https://github.com/Suraj520/data-science/blob/main/02-deep-learning/--theoretical-concepts/dl-notes.pdf"> link </a>
+
 > Deep Learning
 
 Deep learning is a subfield of machine learning that focuses on modeling complex patterns and representations in large amounts of data using artificial neural networks. This is called "deep" learning because it involves training a multilayer neural network (also known as a deep neural network) to learn a hierarchical representation of data.
