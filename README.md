@@ -7,7 +7,7 @@ The repository contains hands-on implementation of various key branches of data-
 
 > Refer the commit history for detailed timeline of commits at <a href="https://github.com/Suraj520/data-science/commits/main"> link </a>.
 
-> Solved numerical problems can be viewed at < a href="https://github.com/Suraj520/data-science/blob/main/solved_numerical_problems.pdf"> link </a>
+> Solved numerical problems can be viewed at <a href="https://github.com/Suraj520/data-science/blob/main/solved_numerical_problems.pdf"> link </a>
 
 ## Table of Contents
 
