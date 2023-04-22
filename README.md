@@ -5,7 +5,7 @@
 
 The repository contains hands-on implementation of various key branches of data-science.
 
-> The repository also shows my progress during the sabbatical from Dec. 2021 - Present*(16 months*). For more details, Refer the commit history.
+> Refer the commit history for detailed timeline of commits at <a href="https://github.com/Suraj520/data-science/commits/main"> link </a>.
 
 
 ## Table of Contents
