@@ -2,6 +2,7 @@
 
 | No. | Topic                                                      |
 | --- | ---------------------------------------------------------- |
+| --. | Theoretical concepts of data engineering. |
 | 00. | MySQL - Various SQL queries from basic to advanced stage. |
 | 01. | Data model maker - Convert SQL queries to Data model.      |
 | 02. | Web scraper - Simple web scraper in Python.                |
