@@ -26,5 +26,8 @@
 | [20-web-traffic-time-series-forecast](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/20-web-traffic-time-series-forecast) | Web traffic time series forecasting. |
 | [21-loan-prediction-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/21-loan-prediction-analysis) | Loan Prediction analysis. |
 | [22-speech-to-gender-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/22-speech-to-gender-classification) | Speech to gender classification using SVC. |
+| [23-feature-imputation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/23-feature-imputation) | Feature imputation on heat flux dataset. |
+| [24-crab-age-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/24-crab-age-prediction) | Predicting crab's age. |
+| [25-advanced-house-price-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/25-advanced-house-price-prediction) | Predicting house price over a series of detailed analysis. |
 
 
