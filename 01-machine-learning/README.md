@@ -29,5 +29,7 @@
 | [23-feature-imputation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/23-feature-imputation) | Feature imputation on heat flux dataset. |
 | [24-crab-age-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/24-crab-age-prediction) | Predicting crab's age. |
 | [25-advanced-house-price-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/25-advanced-house-price-prediction) | Predicting house price over a series of detailed analysis. |
+| [26-space-ship-transportation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/26-space-ship-transportation) | Predicting, if the passenger gets transported or not. |
+
 
 
