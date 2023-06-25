@@ -34,5 +34,7 @@
 | [28-machine-failure](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/28-machine-failure) | A comprehensive notebook towards predicting machine failures. |
 | [29-home-credit-risk-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/29-home-credit-risk-analysis) | Home credit risk analysis. |
 | [30-forest-cover-type-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/30-forest-cover-type-prediction) | Forest Cover Type prediction using RapidsML cuDF |
+| [31-IEEE-CIS-FraudDetection](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/31-IEEE-CIS-FraudDetection) | IEEE-CIS-FraudDetection using RapidsML cuDF |
+
 
 
