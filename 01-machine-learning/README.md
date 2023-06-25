@@ -31,5 +31,8 @@
 | [25-advanced-house-price-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/25-advanced-house-price-prediction) | Predicting house price over a series of detailed analysis. |
 | [26-space-ship-transportation](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/26-space-ship-transportation) | Predicting, if the passenger gets transported or not. |
 | [27-dairy-sales-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/27-dairy-sales-prediction) | A comprehensive notebook towards predicting dairy sales. |
+| [28-machine-failure](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/28-machine-failure) | A comprehensive notebook towards predicting machine failures. |
+| [29-home-credit-risk-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/29-home-credit-risk-analysis) | Home credit risk analysis. |
+| [30-forest-cover-type-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/30-forest-cover-type-prediction) | Forest Cover Type prediction using RapidsML cuDF |
 
 
