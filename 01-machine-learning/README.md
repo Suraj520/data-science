@@ -35,6 +35,6 @@
 | [29-home-credit-risk-analysis](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/29-home-credit-risk-analysis) | Home credit risk analysis. |
 | [30-forest-cover-type-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/30-forest-cover-type-prediction) | Forest Cover Type prediction using RapidsML cuDF |
 | [31-IEEE-CIS-FraudDetection](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/31-IEEE-CIS-FraudDetection) | IEEE-CIS-FraudDetection using RapidsML cuDF |
-
+| [32-Toxic-Comment-Classification-Challenge](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Toxic-Comment-Classification-Challenge using Naive Bayes |
 
 
