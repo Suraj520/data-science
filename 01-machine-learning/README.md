@@ -38,6 +38,7 @@
 | [32-Toxic-Comment-Classification-Challenge](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Toxic-Comment-Classification-Challenge using Naive Bayes |
 | [33-Enzyme-substrate-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Enzyme-substrate-classification using Stacking classifier and Optuna. |
 | [34-santander-customer-transaction-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Santander customer transaction prediction using Bagging |
+| [35-Future-sales-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Future Sales prediction using Hidden Markov Models |
 
 
 
