@@ -36,5 +36,8 @@
 | [30-forest-cover-type-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/30-forest-cover-type-prediction) | Forest Cover Type prediction using RapidsML cuDF |
 | [31-IEEE-CIS-FraudDetection](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/31-IEEE-CIS-FraudDetection) | IEEE-CIS-FraudDetection using RapidsML cuDF |
 | [32-Toxic-Comment-Classification-Challenge](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Toxic-Comment-Classification-Challenge using Naive Bayes |
+| [33-Enzyme-substrate-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Enzyme-substrate-classification using Stacking classifier and Optuna. |
+| [34-santander-customer-transaction-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Santander customer transaction prediction using Bagging |
+
 
 
