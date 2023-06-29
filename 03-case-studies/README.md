@@ -13,5 +13,5 @@
 | 10 | Case study on defining your best customers and customer lifetime values. |
 | 11 | Case study on customer clustering for market segmentation. |
 | 12 | Case study on building a product recommendation system. |
-
-> Note - Case study's titles have been fetched from the udemy playlist- https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/
+| 13 | Case study on Crop Price Analysis. |
+> Note - Case study's titles have been fetched from the udemy playlist and others- https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/
