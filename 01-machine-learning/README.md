@@ -39,6 +39,6 @@
 | [33-Enzyme-substrate-classification](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/32-Toxic-Comment-Classification-Challenge) | Enzyme-substrate-classification using Stacking classifier and Optuna. |
 | [34-santander-customer-transaction-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Santander customer transaction prediction using Bagging |
 | [35-Future-sales-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Future Sales prediction using Hidden Markov Models |
-
+| [36-ICR-identifying-age-related-conditions](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/36-ICR-identifying-age-related-conditions) | Soft voting ensemble towards identifying age related conditions |
 
 
