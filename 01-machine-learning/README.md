@@ -40,5 +40,6 @@
 | [34-santander-customer-transaction-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Santander customer transaction prediction using Bagging |
 | [35-Future-sales-prediction](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/34-santander-customer-transaction-prediction) | Future Sales prediction using Hidden Markov Models |
 | [36-ICR-identifying-age-related-conditions](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/36-ICR-identifying-age-related-conditions) | Soft voting ensemble towards identifying age related conditions |
-
+| [37-predict-co2-emissions-in-rwanda](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/37-predict-co2-emissions-in-rwanda) | Voting ensemble multiple approaches |
+| [38-improve-a-fixed-model-the-data-centric-way](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/38-improve-a-fixed-model-the-data-centric-way) | Optuna K-fold based k fold regression |
 
