@@ -50,5 +50,6 @@
 | 45  | Autoencoders for data compression, feature extraction, anomaly detection and image denoising(PyTorch) |
 | 46  | Image and speech recognition using variational auto encoders(PyTorch)        |
 | 47  | TGS salt identification challenge (PyTorch)      |
-
+| 48  | Commonlit readability challenge (PyTorch)      |
+| 49  | Identify contrails to reduce global warming (PyTorch)      |
 
