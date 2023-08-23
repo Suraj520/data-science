@@ -52,4 +52,5 @@
 | 47  | TGS salt identification challenge (PyTorch)      |
 | 48  | Commonlit readability challenge (PyTorch)      |
 | 49  | Identify contrails to reduce global warming (PyTorch)      |
-
+| 50  | LLM science Exam (PyTorch)      |
+| 51  | Commonlit evaluate student summaries (PyTorch)      |
