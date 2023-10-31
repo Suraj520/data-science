@@ -19,3 +19,4 @@
 | 14. | NLP tasks using DataBricks & Snowflake. |
 | 15. | Computer vision tasks using DataBricks & Snowflake. |
 | 16. | DataBricks serving to deploy the trained models in production. |
+| 16. | DataBricks serving to deploy the trained models in production. |
