@@ -22,3 +22,4 @@
 | 16. | AWS(Basics to Advanced). |
 | 17. | Pandas vs Polars(Basics to Advanced). |
 | 18. | DataBricks & SnowFlake - Basics to Advanced. |
+| 19. | Kubeflow - Basics to Advanced. |
