@@ -19,9 +19,6 @@
 | 13. | Spark streaming project with Kafka Source, Kafka Pub Sub.  |
 | 14. | Apache AirFlow.                                            |
 | 15. | Data pipeline -Ingests, Process & Stores data from e-commerce. |
-| 16. | Kubeflow ML Pipeline.                                      |
-| 17. | Hadoop MapReduce.                                          |
-| 18. | Docker.                                                    |
-| 19. | Django with Kubernetes.                                    |
-
-
+| 16. | AWS(Basics to Advanced). |
+| 17. | Pandas vs Polars(Basics to Advanced). |
+| 18. | DataBricks & SnowFlake - Basics to Advanced. |

@@ -1,0 +1,1 @@
+Host a simple static website using Amazon S3 and enable it for public access.

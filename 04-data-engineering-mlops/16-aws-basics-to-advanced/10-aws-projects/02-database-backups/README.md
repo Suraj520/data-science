@@ -1,0 +1,1 @@
+Automate the backup process for a database using AWS Lambda, Amazon RDS, and Amazon S3.

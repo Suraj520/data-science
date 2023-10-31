@@ -1,0 +1,1 @@
+Develop a serverless microservices architecture using AWS Lambda, Amazon API Gateway, and Amazon DynamoDB.

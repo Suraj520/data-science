@@ -1,0 +1,1 @@
+Build a real-time data analytics platform using Amazon Kinesis, AWS Lambda, Amazon Redshift, and Amazon QuickSight.

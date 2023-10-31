@@ -1,0 +1,1 @@
+Train a machine learning model using Amazon SageMaker and deploy it as a RESTful API using AWS Lambda and Amazon API Gateway.

@@ -1,0 +1,1 @@
+Build a serverless image resizing application using AWS Lambda, Amazon S3, and Amazon API Gateway.
