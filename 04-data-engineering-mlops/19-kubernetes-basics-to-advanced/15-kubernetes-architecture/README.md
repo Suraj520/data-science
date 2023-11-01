@@ -1,1 +1,2 @@
-To be updated soon
+## About
+- Deep dive into k8s architecture.

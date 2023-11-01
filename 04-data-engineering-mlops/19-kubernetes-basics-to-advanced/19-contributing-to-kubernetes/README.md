@@ -1,1 +1,2 @@
-To be updated soon
+## About
+- Kubernetes contributing guidelines.
