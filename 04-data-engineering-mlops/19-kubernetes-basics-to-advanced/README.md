@@ -2,7 +2,6 @@
 
 | No. | Topic                                                      |
 | --- | ---------------------------------------------------------- |
-| --. | Theoretical concepts of data engineering. |
 | 00. | Introduction to containers. |
 | 01. | Basic Linux Skills. |
 | 02. | Container Basics. |
