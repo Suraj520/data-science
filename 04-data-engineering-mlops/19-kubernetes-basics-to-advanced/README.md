@@ -19,6 +19,3 @@
 | 14. | Day 2 Operations. |
 | 15. | Kubernetes Architecture. |
 | 16. | Advanced Networkng. |
-| 17. | Advanced State Management. |
-| 18. | Multi-Cluster and Hybrid Cloud |
-| 19. | Contributing to kubernetes. |
