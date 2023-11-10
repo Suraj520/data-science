@@ -17,5 +17,5 @@
   12. |  Monitoring and logging.|
   13. |  Kubeflow on cloud proviers.|
   14. |  CI/CD for Kubeflow pipelines.|
-  14. |  Kubeflow projects.|
+  15. |  Kubeflow projects.|
   
