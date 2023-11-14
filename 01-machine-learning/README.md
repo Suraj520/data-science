@@ -42,4 +42,4 @@
 | [36-ICR-identifying-age-related-conditions](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/36-ICR-identifying-age-related-conditions) | Soft voting ensemble towards identifying age related conditions |
 | [37-predict-co2-emissions-in-rwanda](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/37-predict-co2-emissions-in-rwanda) | Voting ensemble multiple approaches |
 | [38-improve-a-fixed-model-the-data-centric-way](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/38-improve-a-fixed-model-the-data-centric-way) | Optuna K-fold based k fold regression |
-
+| [39-Binary-prediction-smoker-signals](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/39-binary-prediction-smoker-signals) | Binary prediction of smoker signals |
