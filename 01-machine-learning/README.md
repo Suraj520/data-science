@@ -44,3 +44,5 @@
 | [38-improve-a-fixed-model-the-data-centric-way](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/38-improve-a-fixed-model-the-data-centric-way) | Optuna K-fold based k fold regression |
 | [39-Binary-prediction-smoker-signals](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/39-binary-prediction-smoker-signals) | Binary prediction of smoker signals |
 | [40-detect-AI-generated-text](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/40-detect-AI-generated-text) | Detect AI generated text using Stacking and TFIDF |
+| [41-linking-writing-processes-writing-qlty](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/41-linking-writing-processes-writing-qlty) | Linking writing processes to writing quality using LightGBM and XGB ensemble |
+| [42-regression-mohs-dataset](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/42-regression-mohs-dataset) | Regression with a mohs dataset |
