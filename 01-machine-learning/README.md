@@ -43,3 +43,4 @@
 | [37-predict-co2-emissions-in-rwanda](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/37-predict-co2-emissions-in-rwanda) | Voting ensemble multiple approaches |
 | [38-improve-a-fixed-model-the-data-centric-way](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/38-improve-a-fixed-model-the-data-centric-way) | Optuna K-fold based k fold regression |
 | [39-Binary-prediction-smoker-signals](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/39-binary-prediction-smoker-signals) | Binary prediction of smoker signals |
+| [40-detect-AI-generated-text](https://github.com/Suraj520/data-science/tree/main/01-machine-learning/40-detect-AI-generated-text) | Detect AI generated text using Stacking and TFIDF |
