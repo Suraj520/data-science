@@ -54,3 +54,5 @@
 | 49  | Identify contrails to reduce global warming (PyTorch)      |
 | 50  | LLM science Exam (PyTorch)      |
 | 51  | Commonlit evaluate student summaries (PyTorch)      |
+| 52  | Hacking-human-vasculature-3D (PyTorch)      |
+
