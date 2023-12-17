@@ -56,4 +56,5 @@
 | 51  | Commonlit evaluate student summaries (PyTorch)      |
 | 52  | Hacking-human-vasculature-3D (PyTorch)      |
 | 53  | 2D object detection in CARLA (Tensorflow)      |
+| 54  | LLM - Detect AI Generated Text      |
 
